@@ -1,6 +1,3 @@
-Evo predloga za README datoteku za tvoj **AI Web Scraper** projekat, koristeći **Ollama**, **BrightData**, **Selenium**, i druge biblioteke:
-
----
 
 # AI Web Scraper
 
